@@ -1,6 +1,8 @@
 # Folders
 .vscode
+.terraform
 # Files
 *-vars.json
+keys-vars.tf
 .DS_Store
 *.txt

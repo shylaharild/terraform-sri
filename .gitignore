@@ -1,0 +1,6 @@
+# Folders
+.vscode
+# Files
+*-vars.json
+.DS_Store
+*.txt

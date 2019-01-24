@@ -2,5 +2,6 @@
 .vscode
 # Files
 *-vars.json
+keys-vars.tf
 .DS_Store
 *.txt

@@ -1,5 +1,6 @@
 # Folders
 .vscode
+.terraform
 # Files
 *-vars.json
 keys-vars.tf
